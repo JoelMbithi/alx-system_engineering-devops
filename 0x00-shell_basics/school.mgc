@@ -1,2 +1,3 @@
 #!/bin/bash
-file -C -m school.mgc
+O string HOLERTON holberton data
+I:mime holberton
